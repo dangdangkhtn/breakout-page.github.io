@@ -1,0 +1,6 @@
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\bin\Breakout.dll.config
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\bin\Breakout.dll
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\bin\Breakout.pdb
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\obj\Debug\Breakout.dll
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\obj\Debug\Breakout.pdb
+C:\Users\THD\Documents\phaser game\TypeScript\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
